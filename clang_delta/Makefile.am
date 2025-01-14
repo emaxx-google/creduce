@@ -419,6 +419,7 @@ EXTRA_DIST = \
 	tests/rename-fun/test1.h \
 	tests/rename-param/invalid.c \
 	tests/rename-var/rename-var.c \
+	tests/replace-dependent-typedef/test1.cc \
 	tests/replace-derived-class/replace-derived1.cpp \
 	tests/replace-derived-class/replace-derived2.cpp \
 	tests/replace-derived-class/replace-derived3.cpp \
